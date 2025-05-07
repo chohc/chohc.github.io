@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "chohc"
+title                    : "CHOHC"
 tab_title                : "탭 타이틀이 뭔데요?"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Eunlee CHO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "서울여대 디지털미디어/소프트웨어융합 전공<br>모두의연구소 프론트엔드 캠프 참여중"
+  location         : "Gyeonggi, Anyang"
+  email            : "hyej4995@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
